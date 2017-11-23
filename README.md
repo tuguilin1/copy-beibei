@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+简单的仿贝贝网的移动端网站，功能太多还没有仿完。接口用的贝贝网的接口
